@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 branch21
 branch22
 branch23
 branch24
+=======
+base1
+base2
+base3
+base4
+>>>>>>> 61f1f48... a1.txrt
 
